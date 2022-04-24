@@ -3,6 +3,7 @@ body{
     font-family: Helvetica, Arial, sans-serif;
     font-size: 18px;
     line-height: 30px;
+    background-color: #fcfbfb88;
 }
 
 
@@ -38,14 +39,20 @@ h2{
     color: #ef7c83;
 }
 
+
+/* main */
 main img{
     align-content: center;
     max-width: 100%;
 }
 main{
     max-width: 800px;
-    margin: 0 auto;
-    padding: 0 20px;
+    margin: auto;
+    padding: 20px;
+}
+
+img.big-cato{
+    border: 3px solid #ffffff;
 }
 
 
@@ -61,11 +68,11 @@ p.caption{
 
 /* anchor */
 a{
-    color:rgba(63, 239, 180, 0.81);
+    color: #f27078;
 }
 
 a:hover{
-    color:rgb(60, 209, 159)
+    color: #a32e36;
 }
 
 
