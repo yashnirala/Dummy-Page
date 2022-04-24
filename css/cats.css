@@ -84,11 +84,11 @@ footer{
 }
 
 footer a{
-    color: #ef7c83;
+    color: #f27078;
 }
 
 footer a:hover{
-    color: #ef7c83;
+    color: #a32e36;
     opacity: .8;
     background-color: transparent;
 }
