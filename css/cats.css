@@ -5,16 +5,20 @@ body{
     line-height: 30px;
 }
 
+
+/* header */
 header{
     background-color: #f6d5bd;
     text-align: center;
     padding-top: 50px;
     padding-bottom: 5px;
 }
+
 header h1{
     color: white;
     font-size: 50px;
 }
+
 header img{
     border-radius: 200px;
     object-fit: cover;
@@ -23,8 +27,15 @@ header img{
     border: 10px solid #f8f2e3;
 }
 
+
+/* heading */
 h1, h2{
     font-family: 'Catamaran', sans-serif;
+}
+
+h2{
+    font-size: 30px;
+    color: #ef7c83;
 }
 
 main img{
@@ -37,6 +48,8 @@ main{
     padding: 0 20px;
 }
 
+
+/* para */
 p.caption{
     color: #939292;
     text-align: center;
@@ -45,11 +58,8 @@ p.caption{
     font-style: italic;
 }
 
-h2{
-    font-size: 30px;
-    color: #ef7c83;
-}
 
+/* anchor */
 a{
     color:rgba(63, 239, 180, 0.81);
 }
@@ -58,6 +68,8 @@ a:hover{
     color:rgb(60, 209, 159)
 }
 
+
+/* footer css */
 footer{
     background-color: #f6d5bd;
     text-align: center;
